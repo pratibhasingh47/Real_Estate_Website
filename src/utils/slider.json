@@ -1,56 +1,56 @@
 [
-  {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
-  },
-  {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
-  },
-  {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
-  },
-  {
-    "name": "Emerald Paphos - Kato Paphos",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r4.jpg"
-  },
-  {
-    "name": "Down Town Paphos - Kato Paphos",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r5.jpg"
-  },
-  {
-    "name": "Abiete 1 Paphos - Universal",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r6.jpg"
-  },
-  {
-    "name": "Arkadia Residences 2  Paphos - Kato Paphos",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r7.jpg"
-  },
-  {
-    "name": "Avenue  Paphos - Kato Paphos",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r8.jpg"
-  },
-  {
-    "name": "Edem Paphos Town",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r9.jpg"
-  }
+    {
+        "name": "Aliva Priva Jardin",
+        "price": "47,043",
+        "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+        "image": "./r1.png"
+    },
+    {
+        "name": "Asatti Garden City",
+        "price": "66,353",
+        "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+        "image": "./r2.png"
+    },
+    {
+        "name": "Citralan Puri Serang",
+        "price": "35,853",
+        "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+        "image": "./r3.png"
+    },
+    {
+        "name": "Emerald Paphos - Kato Paphos",
+        "price": "47,043",
+        "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+        "image": "./r4.jpg"
+    },
+    {
+        "name": "Down Town Paphos - Kato Paphos",
+        "price": "66,353",
+        "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+        "image": "./r5.jpg"
+    },
+    {
+        "name": "Abiete 1 Paphos - Universal",
+        "price": "35,853",
+        "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+        "image": "./r6.jpg"
+    },
+    {
+        "name": "Arkadia Residences 2  Paphos - Kato Paphos",
+        "price": "47,043",
+        "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+        "image": "./r7.jpg"
+    },
+    {
+        "name": "Avenue  Paphos - Kato Paphos",
+        "price": "66,353",
+        "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+        "image": "./r8.jpg"
+    },
+    {
+        "name": "Edem Paphos Town",
+        "price": "35,853",
+        "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+        "image": "./r9.jpg"
+    }
 ]
